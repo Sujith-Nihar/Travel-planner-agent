@@ -1,6 +1,7 @@
 streamlit
 crewai[tools]
-crewai==0.9.2
+crewai
+pysqlite3-binary
 langchain
 langchain_ollama
 langchain_community
