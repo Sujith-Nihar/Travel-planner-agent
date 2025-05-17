@@ -1,103 +1,114 @@
 ```markdown
-## Kashmir Travel Itinerary: May 18-20, 2025 (Sightseeing & Fun Activities)
+## Kashmir Travel Itinerary: May 18-21, 2025 (Sightseeing & Adventure)
 
 ### Introduction to Kashmir
 
-Kashmir, often referred to as "Paradise on Earth," is a region renowned for its breathtaking natural beauty. Nestled in the Himalayas, it boasts snow-capped mountains, lush green valleys, serene lakes, and blooming gardens. The region's rich cultural heritage and warm hospitality further enhance its allure, making it a sought-after destination for travelers worldwide.
+Kashmir, often referred to as "Paradise on Earth," is a region renowned for its breathtaking natural beauty. Nestled in the Himalayas, it boasts snow-capped mountains, lush green valleys, serene lakes, and vibrant gardens. The region's rich cultural heritage, influenced by Persian, Central Asian, and Indian traditions, adds to its unique charm.
 
-Srinagar, the summer capital of Jammu and Kashmir, is a city of immense charm and historical significance. Dal Lake, the jewel of Srinagar, is famous for its houseboats, floating gardens, and Shikara rides. The Mughal Gardens, with their terraced lawns, vibrant flowers, and cascading fountains, reflect the region's rich Mughal influence. The old city, with its intricate architecture and bustling markets, offers a glimpse into Kashmir's traditional way of life.
+Srinagar, the summer capital, is famous for its Dal Lake, where traditional houseboats and *Shikaras* (wooden boats) offer a tranquil experience. The Mughal Gardens, with their terraced lawns, fountains, and vibrant flowerbeds, are a testament to the region's historical grandeur. Beyond Srinagar, destinations like Gulmarg and Pahalgam provide opportunities for adventure activities and exploration of untouched landscapes.
 
-Beyond Srinagar, Kashmir offers a diverse range of landscapes and experiences. Gulmarg, a popular hill station, is known for its stunning meadows, ski slopes, and the highest Gondola ride in the world. Pahalgam, with its picturesque valleys and gushing rivers, is a haven for nature lovers and adventure enthusiasts. Sonamarg, the "Meadow of Gold," offers breathtaking views of glaciers and snow-capped peaks.
+The local culture is deeply rooted in Sufism, evident in the region's music, art, and cuisine. Kashmiri cuisine, known for its rich flavors and use of aromatic spices, is a culinary delight. From *Rogan Josh* to *Yakhni* and the elaborate *Wazwan* feast, the food is an integral part of the Kashmiri experience. The warmth and hospitality of the Kashmiri people make visitors feel welcome and create lasting memories.
 
-Kashmir's unique blend of natural beauty, cultural heritage, and adventure opportunities makes it an unforgettable travel destination. Whether you're seeking tranquility in the gardens, excitement on the slopes, or a glimpse into a rich cultural past, Kashmir has something to offer every traveler. The pleasant climate in May, with blooming gardens and comfortable temperatures, makes it an ideal time to visit.
+Whether you're seeking a peaceful retreat amidst nature, an adventurous escapade in the mountains, or a cultural immersion into a unique way of life, Kashmir offers a diverse range of experiences. The blend of scenic beauty, cultural richness, and adventurous opportunities makes it an unforgettable destination for travelers from all over the world.
 
-### Accommodation Recommendation:
+### Accommodation Recommendations
 
-Given the short duration, consider staying in Srinagar for easy access to various attractions. Hotel Grand Boulevard, Srinagar, offers a blend of comfort and scenic views of Dal Lake. Alternatively, experience the unique charm of a houseboat on Dal Lake.
+*   **Luxury:** The Khyber Himalayan Resort & Spa, Gulmarg
+*   **Unique:** Houseboats on Dal Lake, Srinagar
+*   **Scenic:** Hotel Grand Boulevard, Srinagar
 
-### Day 1: May 18, 2025 (Arrival in Srinagar & Dal Lake Exploration)
+### Daily Budget (Estimate)
 
-*   **Morning (8:00 AM - 12:00 PM):**
-    *   Arrive at Srinagar Airport (SXR). Transfer to your hotel/houseboat.
-    *   Check in and freshen up.
-    *   **Activity:** Take a Shikara ride on Dal Lake. Explore the floating gardens, Nehru Park, and the charming waterways. Negotiate the price beforehand.
-*   **Afternoon (12:00 PM - 4:00 PM):**
-    *   **Lunch:** Enjoy a traditional Kashmiri Wazwan meal at Ahdoos Restaurant in Srinagar. Try Rogan Josh, Yakhni, and Gushtaba.
-    *   **Sightseeing:** Visit the Mughal Gardens – Shalimar Bagh, Nishat Bagh, and Chashme Shahi. These gardens offer stunning views of the lake and surrounding mountains.
-*   **Evening (4:00 PM - 8:00 PM):**
-    *   **Activity:** Explore the local markets near Dal Lake. Shop for Kashmiri handicrafts, shawls, carpets, and spices.
-    *   **Dinner:** Have dinner at a restaurant on Dal Lake or in Srinagar. Try Mughal Darbar for another Wazwan experience.
-    *   **Optional:** Enjoy a relaxing evening on your houseboat, listening to traditional Kashmiri music.
+*   Budget Traveler (Food): ₹300 - ₹500 per day
+*   Accommodation: Varies widely (₹8,000 - ₹20,000+ for high-end resorts)
 
-### Day 2: May 19, 2025 (Gulmarg Excursion)
+### Day 1: Arrival in Srinagar & Dal Lake Exploration (May 18, 2025)
 
 *   **Morning (8:00 AM - 12:00 PM):**
-    *   **Travel:** Take a day trip to Gulmarg (approx. 2-3 hours drive from Srinagar). Hire a taxi or take a bus.
-    *   **Activity:** Enjoy a Gondola ride (cable car) to Kongdori and Apharwat Peak. The views of the Himalayas are breathtaking.
-*   **Afternoon (12:00 PM - 4:00 PM):**
-    *   **Lunch:** Have lunch at a restaurant in Gulmarg. Try local Kashmiri cuisine or enjoy a simple meal at a cafe.
-    *   **Activity:** Explore the meadows of Gulmarg. You can hire a pony for a ride or simply walk around and enjoy the scenery.
-*   **Evening (4:00 PM - 8:00 PM):**
-    *   **Travel:** Return to Srinagar from Gulmarg.
-    *   **Dinner:** Enjoy dinner at a restaurant in Srinagar. Try Krishna Vaishno Dhaba for vegetarian options.
-    *   **Optional:** Attend a cultural show or performance in Srinagar (check local listings).
+    *   8:00 AM: Arrive at Srinagar Airport (SXR) from Hyderabad (HYD).
+    *   9:00 AM: Transfer to your chosen accommodation in Srinagar (Houseboat on Dal Lake, Hotel Grand Boulevard).
+    *   10:00 AM: Check in and freshen up.
+*   **Afternoon (12:00 PM - 5:00 PM):**
+    *   12:30 PM: Lunch at a local restaurant near Dal Lake.
+    *   2:00 PM: **Sightseeing:** Explore Dal Lake. Enjoy a *Shikara* ride, visiting the floating gardens and markets.
+*   **Evening (5:00 PM - 10:00 PM):**
+    *   7:00 PM: **Dinner:** Dine at a local restaurant in Srinagar. Try *Rogan Josh* or *Yakhni*.
+    *   8:30 PM: **Activity:** Relax on the houseboat or enjoy a leisurely walk along the Dal Lake promenade.
 
-### Day 3: May 20, 2025 (Srinagar Sightseeing & Departure)
+### Day 2: Srinagar Sightseeing & Mughal Gardens (May 19, 2025)
+
+*   **Morning (9:00 AM - 12:00 PM):**
+    *   9:00 AM: **Sightseeing:** Visit the Mughal Gardens: Shalimar Bagh.
+    *   10:30 AM: **Sightseeing:** Visit Nishat Bagh.
+*   **Afternoon (12:00 PM - 5:00 PM):**
+    *   12:30 PM: Lunch at a restaurant near the Mughal Gardens.
+    *   2:00 PM: **Sightseeing:** Visit Chashme Shahi.
+    *   3:30 PM: **Sightseeing:** Explore the old city of Srinagar, including the Jama Masjid and Shah Hamdan Shrine.
+*   **Evening (5:00 PM - 10:00 PM):**
+    *   7:30 PM: **Dinner:** Enjoy a traditional Kashmiri Wazwan meal at Ahdoos Restaurant or Mughal Darbar.
+    *   9:00 PM: **Activity:** Shop for souvenirs like Pashmina shawls and Kashmiri handicrafts.
+
+### Day 3: Gulmarg Adventure (May 20, 2025)
 
 *   **Morning (8:00 AM - 12:00 PM):**
-    *   **Sightseeing:** Visit the Shankaracharya Temple, located on a hilltop overlooking Srinagar. It offers panoramic views of the city and Dal Lake.
-    *   **Activity:** Explore the old city of Srinagar, including the Jama Masjid and the Shah Hamdan Mosque.
-*   **Afternoon (12:00 PM - 2:00 PM):**
-    *   **Lunch:** Have lunch at a local restaurant in the old city. Try street food like Kashmiri kebabs and momos.
-*   **Afternoon (2:00 PM - 4:00 PM):**
-    *   **Shopping:** Do some last-minute shopping for souvenirs.
-*   **Evening (4:00 PM onwards):**
-    *   Transfer to Srinagar Airport (SXR) for your departure flight to Hyderabad.
+    *   8:00 AM: **Transportation:** Travel from Srinagar to Gulmarg (approx. 2 hours).
+    *   10:00 AM: Arrive in Gulmarg.
+    *   10:30 AM: **Adventure:** Experience the Gulmarg Gondola, one of the highest cable cars in the world, for panoramic views of the Himalayas.
+*   **Afternoon (12:00 PM - 5:00 PM):**
+    *   1:00 PM: Lunch at a restaurant in Gulmarg.
+    *   2:30 PM: **Adventure:**
+        *   **Trekking:** Enjoy a short trek around Gulmarg.
+        *   **Other Options:** Consider horse riding or ATV rides.
+*   **Evening (5:00 PM - 10:00 PM):**
+    *   6:00 PM: **Return:** Travel back to Srinagar.
+    *   8:00 PM: **Dinner:** Dine at a restaurant of your choice in Srinagar.
 
-### Expenses and Tips:
+### Day 4: Pahalgam Excursion & Departure (May 21, 2025)
 
-*   **Flights (Hyderabad to Srinagar & Return):** ₹8,000 - ₹15,000 (depending on booking time and airline)
-*   **Accommodation (2 nights):**
-    *   Hotel Grand Boulevard: ₹6,000 - ₹10,000
-    *   Houseboat: ₹8,000 - ₹15,000
-*   **Food (per day):** ₹500 - ₹1,500 (depending on restaurant choices)
-*   **Transportation (taxis, buses, Shikara):** ₹2,000 - ₹4,000
-*   **Activities (Gondola ride, entrance fees):** ₹2,000 - ₹3,000
-*   **Shopping:** Variable, depending on your preferences.
-*   **Total Estimated Cost:** ₹20,500 - ₹48,500 (This is a broad estimate, and the actual cost may vary.)
+*   **Morning (8:00 AM - 12:00 PM):**
+    *   8:00 AM: **Transportation:** Travel from Srinagar to Pahalgam (approx. 3 hours).
+    *   11:00 AM: Arrive in Pahalgam.
+    *   11:00 AM: **Sightseeing/Adventure:** Explore Pahalgam.
+        *   **Option 1 (Adventure):** River rafting in the Lidder River.
+        *   **Option 2 (Sightseeing):** Visit Betaab Valley, Aru Valley, and Chandanwari.
+*   **Afternoon (12:00 PM - 5:00 PM):**
+    *   1:00 PM: Lunch in Pahalgam.
+    *   3:00 PM: Last minute souvenir shopping.
+*   **Evening (5:00 PM - 10:00 PM):**
+    *   5:00 PM: **Transportation:** Transfer from Pahalgam to Srinagar Airport (SXR).
+    *   8:00 PM: Depart from Srinagar Airport (SXR) for your flight back to Hyderabad (HYD).
 
-**Tips:**
+### Food Recommendations
 
-*   **Bargaining:** Negotiate prices for taxis, Shikara rides, and souvenirs.
-*   **Dress Code:** Dress modestly when visiting religious sites.
-*   **Clothing:** Carry warm clothing, even in May, as the weather can be unpredictable, especially in Gulmarg.
-*   **Health:** Stay hydrated and avoid drinking tap water. Opt for bottled water.
-*   **Respect:** Respect local customs and traditions.
-*   **Weather:** Check the weather forecast closer to your travel dates for the most accurate information.
-*   **Booking:** Book accommodations and transportation in advance, especially during peak season.
-*   **Currency:** Indian Rupees (INR) are used in Kashmir.
-*   **Connectivity:** Mobile network coverage can be spotty in some areas.
-*   **Safety:** Kashmir is generally safe for tourists, but it's always wise to be aware of your surroundings and take necessary precautions.
+*   **Rogan Josh:** Aromatic lamb dish.
+*   **Yakhni:** Yogurt-based lamb curry.
+*   **Wazwan:** A multi-course Kashmiri feast.
+*   **Momos:** Tibetan-style dumplings.
+*   **Kahwa:** Traditional Kashmiri green tea.
 
-### Food Recommendations:
+### Expenses
 
-*   **Wazwan:** A traditional Kashmiri multi-course meal. Try Rogan Josh, Yakhni, and Gushtaba.
-*   **Kashmiri Kebabs:** Delicious and flavorful kebabs available at local street food stalls.
-*   **Momos:** Tibetan-style dumplings, popular in Kashmir.
-*   **Kahwa:** A traditional Kashmiri green tea with saffron and spices.
+*   **Flights (Hyderabad to Srinagar round trip):** ₹8,000 - ₹15,000 (Estimate)
+*   **Accommodation (per night):**
+    *   Houseboat: ₹3,000 - ₹10,000
+    *   Hotel: ₹2,000 - ₹8,000
+    *   Luxury Resort: ₹8,000 - ₹20,000+
+*   **Transportation (within Kashmir):** ₹2,000 - ₹5,000 (for taxis and local transport)
+*   **Food (per day):** ₹500 - ₹2,000
+*   **Activities:** ₹1,000 - ₹5,000 (Gondola ride, river rafting, entry fees)
+*   **Souvenirs:** ₹500 - ₹2,000
 
-### Potential Events (May 2025):
+### Important Notes & Tips
 
-*   Check local listings for cultural events, music performances, and festivals happening during your visit.
-*   Look out for Shikara races on Dal Lake.
-
-### Important Notes:
-
-*   Negotiate prices for taxis, Shikara rides, and pony rides beforehand.
-*   Dress modestly when visiting religious sites.
-*   Carry warm clothing, even in May, as the weather can be unpredictable.
-*   Stay hydrated and avoid drinking tap water.
-*   Respect local customs and traditions.
-*   Check the weather forecast closer to your travel dates for the most accurate information.
-*   Book accommodations and transportation in advance, especially during peak season.
+*   **Visa:** Ensure you have the necessary Indian visa.
+*   **Weather:** Pack light clothing with a light jacket or sweater. Sunscreen and sunglasses are essential.
+*   **Local Events:** Check local listings closer to the dates for festivals and events.
+*   **Transportation:** Pre-book taxis or cabs for convenient travel.
+*   **Altitude:** Drink plenty of water to avoid altitude sickness, especially in Gulmarg and Pahalgam.
+*   **Adventure Activities:** Book adventure activities in advance, especially during peak season.
+*   **Bargaining:** Bargain while shopping in local markets.
+*   **Respect Local Customs:** Dress modestly when visiting religious sites.
+*   **Currency:** Indian Rupees (INR) are used. Keep cash handy for smaller establishments and local markets.
+*   **Connectivity:** Mobile connectivity can be limited in some areas.
+*   **Safety:** Kashmir is generally safe for tourists, but it's always good to stay informed about the local situation and follow any advisories issued by authorities.
 ```
