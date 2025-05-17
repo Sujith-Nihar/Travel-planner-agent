@@ -1,6 +1,6 @@
 streamlit
 crewai[tools]
-crewai
+crewai==0.9.2
 langchain
 langchain_ollama
 langchain_community
