@@ -138,8 +138,8 @@ Enter your travel details below, and our AI-powered travel assistant will create
 """)
 
 # User Inputs
-from_city = st.text_input("🏡 From City", "India")
-destination_city = st.text_input("✈️ Destination City", "Rome")
+from_city = st.text_input("🏡 From City", "Chicago")
+destination_city = st.text_input("✈️ Destination City", "New York")
 date_from = st.date_input("📅 Departure Date")
 date_to = st.date_input("📅 Return Date")
 interests = st.text_area("🎯 Your Interests (e.g., sightseeing, food, adventure)", "sightseeing and good food")
